@@ -1,0 +1,100 @@
+C:\UIT Code\LTTQ\DemoSort\bin\Debug\DemoSort.exe.config
+C:\UIT Code\LTTQ\DemoSort\bin\Debug\DemoSort.exe
+C:\UIT Code\LTTQ\DemoSort\bin\Debug\DemoSort.pdb
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.Form1.resources
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.exe
+C:\UIT Code\LTTQ\DemoSort\obj\Debug\DemoSort.pdb
+F:\project\DemoSort\bin\Debug\DemoSort.exe.config
+F:\project\DemoSort\bin\Debug\DemoSort.exe
+F:\project\DemoSort\bin\Debug\DemoSort.pdb
+F:\project\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+F:\project\DemoSort\obj\Debug\DemoSort.Form1.resources
+F:\project\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+F:\project\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+F:\project\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+F:\project\DemoSort\obj\Debug\DemoSort.exe
+F:\project\DemoSort\obj\Debug\DemoSort.pdb
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\bin\Debug\DemoSort.exe.config
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\bin\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\bin\Debug\DemoSort.pdb
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.Form1.resources
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\them_scale\DemoSort\obj\Debug\DemoSort.pdb
+F:\project\them_scale\DemoSort\bin\Debug\DemoSort.exe.config
+F:\project\them_scale\DemoSort\bin\Debug\DemoSort.exe
+F:\project\them_scale\DemoSort\bin\Debug\DemoSort.pdb
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.Form1.resources
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.exe
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.pdb
+F:\project\them_scale\DemoSort\obj\Debug\DemoSort.Form2.resources
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.Form1.resources
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.Form2.resources
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\obj\Debug\DemoSort.pdb
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\bin\Debug\DemoSort.exe.config
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\bin\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\them_scale\them_scale\DemoSort\bin\Debug\DemoSort.pdb
+E:\Khoa\bt\lập trình trực quan\DemoSort\bin\Debug\DemoSort.exe.config
+E:\Khoa\bt\lập trình trực quan\DemoSort\bin\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\DemoSort\bin\Debug\DemoSort.pdb
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.Form1.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.Form2.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\DemoSort\obj\Debug\DemoSort.pdb
+F:\test\DemoSort\bin\Debug\DemoSort.exe.config
+F:\test\DemoSort\bin\Debug\DemoSort.exe
+F:\test\DemoSort\bin\Debug\DemoSort.pdb
+F:\test\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+F:\test\DemoSort\obj\Debug\DemoSort.Form1.resources
+F:\test\DemoSort\obj\Debug\DemoSort.Form2.resources
+F:\test\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+F:\test\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+F:\test\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+F:\test\DemoSort\obj\Debug\DemoSort.exe
+F:\test\DemoSort\obj\Debug\DemoSort.pdb
+F:\test\DemoSort\obj\Debug\DemoSort.Form3.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\bin\Debug\DemoSort.exe.config
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\bin\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\bin\Debug\DemoSort.pdb
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.csprojAssemblyReference.cache
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.Form1.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.Form2.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.Form3.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.exe
+E:\Khoa\bt\lập trình trực quan\DemoSort1\DemoSort\obj\Debug\DemoSort.pdb
+F:\detail\Sort\DemoSort\bin\Debug\DemoSort.exe.config
+F:\detail\Sort\DemoSort\bin\Debug\DemoSort.exe
+F:\detail\Sort\DemoSort\bin\Debug\DemoSort.pdb
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.csproj.AssemblyReference.cache
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.csproj.SuggestedBindingRedirects.cache
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.Form1.resources
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.Form2.resources
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.Form3.resources
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.Properties.Resources.resources
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.csproj.GenerateResource.cache
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.csproj.CoreCompileInputs.cache
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.exe
+F:\detail\Sort\DemoSort\obj\Debug\DemoSort.pdb
